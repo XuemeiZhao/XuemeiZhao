@@ -21,5 +21,8 @@ Outside of academia,  I'm also passionate about marathon, hiking, and Chinese ca
 - **Environmental Economics:** environmental benefit assessment of policies
 
 
-
+## Publications
+- **Agricultrual Economics:** agriculture policy adjustment, farmer income and inequality, agricultural capital investment
+- **Development Economics:** the impact of aging, digital transformation and other issues on the national macro economy
+- **Environmental Economics:** environmental benefit assessment of policies
 
