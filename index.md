@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I'm a 3rd(final) year  <a href="http://english.eco.hust.edu.cn/Program/Master_Program.htm" target="_blank"> Economics </a> Master's student at <a href="https://english.hust.edu.cn/" target="_blank"> Huazhong University of Science and technology</a>'s <a href="http://english.eco.hust.edu.cn/" target="_blank">  School of Economics</a>,
-working under the mentorship of Prof.<a href="https://faculty.hust.edu.cn/yangjin1/zh_CN/more/869776/shjzgd/" target="_blank"> Jin Yang</a>.
+working under the mentorship of Prof.<a href="https://faculty.hust.edu.cn/yangjin1/zh_CN/more/869776/shjzgd/" target="_blank"> Jin Yang</a>. I am in the process of applying for a Ph.D. program that will commence in fall 2024 or a later term.
 
 Prior to joining the Master program, I completed my bachelar's degree in Investment Science from <a href="https://www.cornell.edu" target = "_blank"> Sichuan Agricultural University</a> advised by Prof. <a href= "https://www.researchgate.net/profile/Houjian-Li" target = "_blank"> Houjian Li</a>.  
 
@@ -22,7 +22,4 @@ Outside of academia,  I'm also passionate about marathon, hiking, and Chinese ca
 
 
 ## Publications
-- **Agricultrual Economics:** agriculture policy adjustment, farmer income and inequality, agricultural capital investment
-- **Development Economics:** the impact of aging, digital transformation and other issues on the national macro economy
-- **Environmental Economics:** environmental benefit assessment of policies
-
+- **<a href="http://english.eco.hust.edu.cn/Program/Master_Program.htm" target="_blank">Lanlan Su, *Xuemei Zhao*, Yanling Peng. Does Digital Governance Improve the Efficiency of Rural Governance? [J/OL].E-Government, 2023(07):57-72. (in Chinese, CSSCI, IF:7.278)** 
